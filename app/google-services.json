@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695191386346",
+    "firebase_url": "https://beru-a955f.firebaseio.com",
+    "project_id": "beru-a955f",
+    "storage_bucket": "beru-a955f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695191386346:android:80a87bbe870381cf",
+        "android_client_info": {
+          "package_name": "com.example.beru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695191386346-ti6h9kaguernqlo7lvd6qknfqgifhq0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beru",
+            "certificate_hash": "f49f0fc243c5fbcc081c4c33054192dc0f50ef4b"
+          }
+        },
+        {
+          "client_id": "695191386346-d7mc631d8fursr6rkj5oicoblg7hv1lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyf3Wy7w7K-_V3-aDEnDJazISPHUjHipw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695191386346-d7mc631d8fursr6rkj5oicoblg7hv1lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
